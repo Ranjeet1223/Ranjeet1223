@@ -1,12 +1,3 @@
-Hi,
-I'm Ranjeet kumar.
-I'm basically from GAYA ,(BIHAR).but currently I'm staying in Bhopal (Madhaya Pradesh).
-Now currently I'm purchasing B-Tech  EC branch in TECHNOCRATS INSTITUTE OF TECHNOLOGY (University of RGPV).
-My strengh are i am self motivated hard working and a disciplined person.
-My short term goal is to get a job in a reputed company .
-And my long term goal is achieve a good person 
-
-<!---
-Ranjeet1223/Ranjeet1223 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+TECH_QUIZ_APPLICATION
+Author RANJEET KUMAR
+This is a desktop application which is developed for take quiz for the students . This application support two module for users. When application run for the first time, it allowed the users to select who he/she wants to login in the system. Application support login as teacher and login as student. The teacher has an option to Set Question Paper, Edit Question Paper, Change Password. The student has an option to Take Test , Change Password etc.
